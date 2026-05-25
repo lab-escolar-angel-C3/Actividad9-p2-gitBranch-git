@@ -1,1 +1,2 @@
 nombre: angel jesus romero perez
+edad: 19
